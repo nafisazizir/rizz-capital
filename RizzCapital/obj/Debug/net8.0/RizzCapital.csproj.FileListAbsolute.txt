@@ -1,0 +1,14 @@
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/bin/Debug/net8.0/RizzCapital
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/bin/Debug/net8.0/RizzCapital.deps.json
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/bin/Debug/net8.0/RizzCapital.runtimeconfig.json
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/bin/Debug/net8.0/RizzCapital.dll
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/bin/Debug/net8.0/RizzCapital.pdb
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.AssemblyInfoInputs.cache
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.AssemblyInfo.cs
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.csproj.CoreCompileInputs.cache
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.dll
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/refint/RizzCapital.dll
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.pdb
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/RizzCapital.genruntimeconfig.cache
+/Users/nafisaziziriza/Project/RizzCapital/RizzCapital/obj/Debug/net8.0/ref/RizzCapital.dll
